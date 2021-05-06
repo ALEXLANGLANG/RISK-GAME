@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="@dimen/fragmentMargin"
+        android:layout_marginEnd="@dimen/fragmentMargin"
+        tools:context=".activity.PlaceActivity"
+        android:orientation="vertical"
+        android:gravity="center">
+
+    <fragment
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:name="edu.duke.ece651.group4.RISK.client.fragment.WorldFragment"
+            android:id="@+id/worldFG"
+    />
+
+    <TextView
+            android:id="@+id/placeInstru"
+            android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/INITPLACE"
+              android:layout_marginTop="@dimen/fragmentMargin"
+              android:layout_marginBottom="@dimen/fragmentMargin"
+    />
+
+    <include layout="@layout/item_input_num"
+             android:id="@+id/terrA"/>
+
+    <include layout="@layout/item_input_num"
+             android:id="@+id/terrB"/>
+
+<!--    <include layout="@layout/item_input_num"-->
+<!--             android:id="@+id/terrC"/>-->
+
+    <Button
+            android:id="@+id/buttonCommitPlace"
+            android:text="@string/COMMIT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+    />
+
+    <!--    <androidx.recyclerview.widget.RecyclerView-->
+    <!--            android:id="@+id/terrList"-->
+    <!--            app:layout_constraintBottom_toBottomOf="parent"-->
+    <!--            app:layout_constraintTop_toBottomOf="@+id/chooseInstr"-->
+    <!--            app:layout_constraintStart_toStartOf="parent"-->
+    <!--            app:layout_constraintEnd_toEndOf="parent"-->
+    <!--            android:layout_height="500dp"-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_marginTop="@dimen/fragmentMargin"-->
+    <!--            android:layout_marginStart="@dimen/fragmentMargin"-->
+    <!--            android:layout_marginEnd="@dimen/fragmentMargin"-->
+    <!--            android:layout_marginLeft="@dimen/fragmentMargin"-->
+    <!--    />-->
+
+
+</LinearLayout>

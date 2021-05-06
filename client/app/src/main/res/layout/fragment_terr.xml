@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:layout_margin="@dimen/fragmentMargin"
+              tools:context=".fragment.TerrFragment" android:orientation="vertical">
+
+    <TextView
+            android:id="@+id/terrInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""/>
+    <TextView
+            android:id="@+id/soldierInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""/>
+
+    <ImageButton
+            android:id="@+id/transferBT"
+            android:src="@drawable/ic_baseline_arrow_downward_24"
+            android:background="@drawable/button_style"
+            android:padding="@dimen/buttonMargin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+    />
+
+    <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/jobInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+    />
+
+</LinearLayout>

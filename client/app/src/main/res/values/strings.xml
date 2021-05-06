@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">RISK</string>
+    <string name="DEVINFO">Duke university @ECE651 @group4</string>
+    <string name="WELCOME">Welcome to RISC!\nReally Interesting Strategic Conquest Game!</string>
+    <string name="LOGIN">Log in</string>
+    <string name="USERNAME">Your name</string>
+    <string name="PASSWORD">Password</string>
+    <string name="SIGNUP">Sign up</string>
+    <string name="CREROOM">create new room</string>
+    <string name="PASSWORDCHECK">Input the password again</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="BACK">Back</string>
+    <string name="CHOOSE_ROOM_INSTR">Please choose the room you want to join</string>
+    <string name="ID_INSTRU">"Room ID: "</string>
+    <string name="ROOMINFO">Players in this room:</string>
+    <string name="FRESHROOM">fresh</string>
+    <string name="WAIT">Waiting for other players</string>
+    <string name="INITPLACE">"Please input number of soldiers you want to place in each territory: "</string>
+    <string name="PLACE_INSTRU">You want to place in territory</string>
+    <string name="CHOOSE_INSTRU">"Please input the number you want: "</string>
+    <string name="INPUT_NUM_INSTRU">"Please input the number of units: "</string>
+    <string name="SWITCH_OUT">SWITCH</string>
+    <string name="CHOOSE_ACTION_INSTRU">Choose action here</string>
+    <string name="PLAYERINFO">Player Information:\n</string>
+
+    <string name="CHOOSE_SRC_INSTRU">"You want to send troop from territory: "</string>
+    <string name="CHOOSE_DES_INSTRU">You want to send troop to territory:</string>
+    <string name="CHOOSE_LEVEL_INSTRU">"Choose the level of units: "</string>
+    <!--for upgrade-->
+    <string name="UPGRADE_CHOOSE_TERR_INSTRU">"Choose the territory to upgrade unit on: "</string>
+    <string name="UPGRADE_TYPE_BEFORE_PROMPT">"Choose type of unit to upgrade:"</string>
+    <string name="UPGRADE_LEVEL_BEFORE_PROMPT">"Upgrade the unit from: "</string>
+    <string name="UPGRADE_LEVEL_AFTER_PROMPT">"Upgrade the unit to: "</string>
+
+    <string name="hint_enter_a_message">Enter your message here</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CHANGE_TERR_PROMPT">"Change type of soldiers in territory: "</string>
+    <string name="CHANGE_TYPE_PROMPT">"Change type of soldiers to: "</string>
+    <string name="CHANGE_TYPE_AFTER">"Change the type to: "</string>
+    <string name="TRANSFER_CHOOSE_TERR_INSTRU">"You want to change soldier in territory: "</string>
+    <string name="CHOOSE_JOB_INSTR">"Choose type of the troop: "</string>
+    <string name="COMMIT">COMMIT</string>
+    <string name="DONE">DONE</string>
+
+</resources>
