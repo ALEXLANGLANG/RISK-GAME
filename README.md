@@ -12,8 +12,8 @@ The goal of the game is to occupy every territory on the board and eliminate oth
 
 
 ## Development
-Developed an Android application which enables users to play RISK GAME.
-Main contribution:
+This is an Android application which enables users to play RISK GAME.
+My main contributions are:
 1. Designed and implemented the backend game server and chat server via Non-blocking IO and state machine.
 2. Handled concurrency requests with multi-thread programming from multiple users.
 3. Realized server-client communication with TCP socket programming. 
