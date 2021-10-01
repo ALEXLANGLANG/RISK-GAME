@@ -21,18 +21,18 @@ My main contributions are:
 
 
 
-## Evolution3 Unit Type Transfer Feature
-### Description
+## Other Info
+### Evolution3 Unit Type Transfer Feature
 https://docs.google.com/document/d/1P9i6wgl7DS_BDTSVlzvQ1whGcxe-0AHW_vA2KxTKXNk/edit
 
-## Evolution2 UX prototype
+### UX prototype
 https://docs.google.com/presentation/d/176PTTRUj4xIX26alagKeaRLKd9goiVSM8KMmkJsWLHA/edit?usp=sharing
 
-## UML Diagram
+### UML Diagram
 https://www.processon.com/view/link/606d22bd5653bb5cea06e929
 
 ### New feature Description
 https://docs.google.com/document/d/1P9i6wgl7DS_BDTSVlzvQ1whGcxe-0AHW_vA2KxTKXNk/edit?usp=sharing
 
-## Coverage
+### Coverage
 [Detailed coverage](https://xs75.pages.oit.duke.edu/ece651-group4-project1/dashboard.html)
