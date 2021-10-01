@@ -20,7 +20,6 @@ My main contributions are:
 4. Used Hibernate to store game states to Postgres database to make sure that users can go back to the game after any shutdown.
 
 
-
 ## Other Info
 ### Evolution3 Unit Type Transfer Feature
 https://docs.google.com/document/d/1P9i6wgl7DS_BDTSVlzvQ1whGcxe-0AHW_vA2KxTKXNk/edit
